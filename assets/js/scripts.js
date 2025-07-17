@@ -434,7 +434,7 @@ ScrollTrigger.matchMedia({
             scrub: true,
             pin: true,
             anticipatePin: 1, // 핀 효과를 부드럽게 줄 수 있음.
-            markers: true,
+            markers: false,
         });
     }
 });
